@@ -1,0 +1,9 @@
+.tree{
+    overflow: scroll;
+    height: 500px;
+}
+.body{
+    width: 80%;
+    height: 500hv;
+    max-height: 500hv;
+}
